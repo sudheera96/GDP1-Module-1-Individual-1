@@ -2,7 +2,7 @@
 
 Hello, I am Sri Sudheera Chitipolu. Team member of the Group 4 of project Hunt Game, Clients Dr. Denise Case and Dr. Charles Hoot.
 
-Before getting into details of commits, I would like to say basically until now as team members decided to divide assignments among the group members as the small tasks.So my tasks are to look into every details provided by team and fix the changes also give details of the project where clients able to understand them in good way.
+Before getting into details of commits, I would like to say, according to module 1 until now, as team members decided to divide assignments among the group members as the small tasks.So my tasks are to look into every details provided by team and fix the changes also give details of the project where clients able to understand them in good way.
 
 ## 1.Attendance (list the class periods you attended)
 
@@ -27,7 +27,7 @@ In this Half day 1,I spent discussing
 
 In this Half day 2,I spent time making the overview and benefits of the project.
 
-* In overview, I mentioned detail explanation of the project like its responsive, functionalities, shared responsibilites,security, theme. These are the main things always cleint focus on. In order to overcome the confusion functionalities of the project was explained in detail.
+* In overview, I mentioned detail explanation of the project like its responsive, functionalities, shared responsibilites,security, theme. These are the main things always cleint focus on. In order to overcome the confusion, functionalities of the project was explained in detail.
 
 https://github.com/sudheera96/Group-4--Hunt-game/commit/fd45391a8f4ff004be21fdfc47b4be55318bea9a
 
@@ -35,11 +35,11 @@ https://github.com/sudheera96/Group-4--Hunt-game/commit/fd45391a8f4ff004be21fdfc
  
  https://github.com/sudheera96/Group-4--Hunt-game/commit/9b5154eaa2b524ad0c328c379ec31005388ad8c5
  
- * As I mentioned early, my task is to fix and update the changes I did updates
+ * As I mentioned early, my task is to fix and update the changes.So, I did updates in my half day 2.
  
  https://github.com/sudheera96/Group-4--Hunt-game/commit/592c1167bd2602f1c48afe27ec22bd1e285d5773
  
-* Also, the commits with out pull by the team, made appear again the same mistakes. Again rechecking and made commits not undergoing merge conflict.
+* Also, the commits without pull by the team,same mistakes made appear again. Again rechecked and made commits without merge conflict.
  
  https://github.com/sudheera96/Group-4--Hunt-game/commit/1873ecc33d6a65d382306463cd00e9a1e2f008c8
  
@@ -53,7 +53,15 @@ https://github.com/sudheera96/Group-4--Hunt-game/commit/fd45391a8f4ff004be21fdfc
 
 In this half day 3, there were more tasks because of approching time for presentation to client.
 
-* After doing certain paste from my files to repo for multiple times few of the little changes commits done by my. Like checking the html page login and and CSS design file,matching the sample data both from excel and provided on readme and few other fixations.
+* After multiple revisting into proposal, decided to add few cons of the project, inorder to provide more details to client.
+
+https://github.com/sudheera96/Group-4--Hunt-game/commit/78b568ae6eb82d7fc05724f1b53b721495dd08b4
+
+https://github.com/sudheera96/Group-4--Hunt-game/commit/0563d03e679d294b45e346961269d54a08d9599d
+
+https://github.com/sudheera96/Group-4--Hunt-game/commit/5e6f28a8f8d31f65a2ddbafb637be06363bc0e34
+
+* After doing certain uploads from my files to repo for multiple times few of the little changes commits done by my. Like checking the html page login and and CSS design file,matching the sample data both from excel and provided on readme and few other fixations.
 
 https://github.com/sudheera96/Group-4--Hunt-game/commit/cb976c909f74758d02a1e9bed60f38461b536dd6
 
@@ -64,14 +72,6 @@ https://github.com/sudheera96/Group-4--Hunt-game/commit/c7e69fbf5609fd9ddf9744f2
 https://github.com/sudheera96/Group-4--Hunt-game/commit/e4c5e0ece0c373c912a3fbd858874ec9029f11a3
 
 https://github.com/sudheera96/Group-4--Hunt-game/commit/33d43f5a9f4e52057bf9e3bb3d135d044c1e35bf
-
-* After multiple revisting into proposal, decided to add few cons of the project, inorder to provide more details to client.
-
-https://github.com/sudheera96/Group-4--Hunt-game/commit/78b568ae6eb82d7fc05724f1b53b721495dd08b4
-
-https://github.com/sudheera96/Group-4--Hunt-game/commit/0563d03e679d294b45e346961269d54a08d9599d
-
-https://github.com/sudheera96/Group-4--Hunt-game/commit/5e6f28a8f8d31f65a2ddbafb637be06363bc0e34
 
 * Also provided details of the client like there name and designation to _gain marketing for the project._
 
@@ -87,7 +87,7 @@ https://github.com/sudheera96/Group-4--Hunt-game/commit/0df24bff08e0f03f615c9ce4
 
 https://github.com/sudheera96/Group-4--Hunt-game/commit/7c1a67358e18cb0cc266281c805596e4ba5f046f
 
-* Gave clear details regarding the choosed technologies.
+* Gave clear details, regarding the choosed technologies.
 
 https://github.com/sudheera96/Group-4--Hunt-game/commit/d2a94bc01bff3030e3c16281da6193467e22928d
 
