@@ -45,6 +45,8 @@ https://github.com/sudheera96/Group-4--Hunt-game/commit/fd45391a8f4ff004be21fdfc
  
 * Also accepted JIRA requests from team members and created account in the JIRA and started to monitor my role and tasks assigned to me as the updates popup in the email. Also look after the few done tasks by the team members.
 
+* As github hunt game repo creator, I built the hunt game host page and provided to team for the commit.
+
 ## 4.Half day 3
 
 In this half day 3, there were more tasks because of approching time for presentation to client.
