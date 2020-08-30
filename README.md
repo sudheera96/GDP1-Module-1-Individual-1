@@ -88,7 +88,7 @@ https://github.com/sudheera96/Group-4--Hunt-game/commit/d2a94bc01bff3030e3c16281
 
 Moreover, added comments in JIRA for UI design issue of one of the team member.
 
-
+![JIRA](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(117).png)
 
 
 
