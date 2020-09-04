@@ -74,6 +74,8 @@ https://github.com/sudheera96/Group-4--Hunt-game/issues/4
 
 * Today was our presentation day. I have worked on the notes taking and recording audio of our presentation,for revisiting into it.
 
+https://github.com/sudheera96/GDP1-Module-1-Individual-1/blob/master/Scan%2004%20September%202020.pdf
+
 * After discussing with Dr.Case personally,tried to link the issues in readme file.
  
  Linked the administrator role issue in the readme for more clarification to the client,like, what was the issue and what is the solution to the issue.
@@ -81,6 +83,8 @@ https://github.com/sudheera96/Group-4--Hunt-game/issues/4
  https://github.com/sudheera96/Group-4--Hunt-game/commit/1da1bb86e3c4d7762e87860fa1bd04d95c3a208e
  
  * Looked into cost estimation and tagged few team members in JIRA to focus more on planning rather than designing. 
+ 
+ ![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(124).png)
  
  
  
