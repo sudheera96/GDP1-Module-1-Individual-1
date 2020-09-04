@@ -30,6 +30,10 @@ https://github.com/sudheera96/Group-4--Hunt-game/commit/095dd3ffe6c664c64cf0c9f1
 
 https://github.com/sudheera96/Group-4--Hunt-game/issues/1
 
+* Aissgend Issue to one of the team member
+
+https://github.com/sudheera96/Group-4--Hunt-game/issues/9
+
 ## 3.Half day 2
 
 In this Half day 2
