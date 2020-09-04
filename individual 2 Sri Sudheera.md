@@ -9,7 +9,7 @@ Monday August 31 (Zoom)
 
 Wednesday September 2 (Zoom)
 
-Wednesday September 4 (Zoom)
+Wednesday September 4 (In-person)
 
 ## 2.Half day 1
 
@@ -69,5 +69,20 @@ https://github.com/sudheera96/Group-4--Hunt-game/issues/13
 * By tagging Dr. Charles Hoot in comment for issue, asked to look into solutions,where those are satisfactory or not.
 
 https://github.com/sudheera96/Group-4--Hunt-game/issues/4
+
+## 4.Half day 3
+
+* Today was our presentation day. I have worked on the notes taking and recording audio of our presentation,for revisiting into it.
+
+* After discussing with Dr.Case personally,tried to link the issues in readme file.
+ 
+ Linked the administrator role issue in the readme for more clarification to the client,like, what was the issue and what is the solution to the issue.
+ 
+ https://github.com/sudheera96/Group-4--Hunt-game/commit/1da1bb86e3c4d7762e87860fa1bd04d95c3a208e
+ 
+ * Looked into cost estimation and tagged few team members in JIRA to focus more on planning rather than designing. 
+ 
+ 
+ 
 
 
