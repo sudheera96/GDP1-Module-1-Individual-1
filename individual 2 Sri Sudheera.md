@@ -60,6 +60,8 @@ https://github.com/sudheera96/Group-4--Hunt-game/issues/13
 
 * Commented in JIRA for providing UI design Sign UP page.
 
+![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(121).png)
+
 * By tagging Dr. Charles Hoot in comment for issue, asked to look into solutions,where those are satisfactory or not.
 
 https://github.com/sudheera96/Group-4--Hunt-game/issues/4
