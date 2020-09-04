@@ -56,7 +56,7 @@ https://github.com/sudheera96/Group-4--Hunt-game/issues/13
 
 * Attended Zoom meeting which was organised by the team,for discussing the project issues.
 
-
+![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(122).png)
 
 * Commented in JIRA for providing UI design Sign UP page.
 
