@@ -18,13 +18,12 @@ https://github.com/Krishna-Koyyalamudi/The-Hunt/commit/63a45ff5a30fd149ec40b84ac
 
 https://github.com/Krishna-Koyyalamudi/The-Hunt/commit/9364bc6798fae8e7568edebf647d54f2b9d184f1
 
-Before this updates in github for skectches I did discussion with one team member to create file for skectches.
+Before this updates in github for skectches I did discussion with one team member to create file for skectches
 
-image 
-
-
+![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(155).png)
 
 3.Half day 2
+
 
 In this Half day 2,I spent time making all changes in both JIRA and github repo user stories in the required client format.
 
@@ -56,7 +55,19 @@ http://cs04.nwmissouri.edu/browse/GDPGAM-296
 
 http://cs04.nwmissouri.edu/browse/GDPGAM-295
 
-Communicated with class and my team members
+Communicated with class and my team members also with Dr.Case
+
+Arranged Zoom meeting 
+
+![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(154).png)
+
+![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(156).png)
+
+![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(157).png)
+
+![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(158).png)
+
+![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(159).png)
 
 
 4.Half day 3
