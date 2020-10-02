@@ -1,4 +1,4 @@
-1.Attendance (list the class periods you attended)
+## 1.Attendance (list the class periods you attended)
 
 Monday September 28 (Zoom)
 
@@ -6,7 +6,7 @@ Wednesday September 30 (Zoom)
 
 Friday October 2 (Zoom)
 
-2.Half day 1
+## 2.Half day 1
 
 In this Half day 1,I spent on creating .md files on skectches and sprint planning
 
@@ -22,7 +22,7 @@ Before this updates in github for skectches I did discussion with one team membe
 
 ![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(155).png)
 
-3.Half day 2
+## 3.Half day 2
 
 
 In this Half day 2,I spent time making all changes in both JIRA and github repo user stories in the required client format.
@@ -70,7 +70,7 @@ Arranged Zoom meeting
 ![](https://raw.githubusercontent.com/sudheera96/GDP1-Module-1-Individual-1/master/Screenshot%20(159).png)
 
 
-4.Half day 3
+## 4.Half day 3
 
 Had a meeting with Dr.Case, and discussed with user stories and worked on below things as samples 
 
